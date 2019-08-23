@@ -1,0 +1,1 @@
+java -jar c:\input\FodUpload.jar -u "https://asodapi.dxcdevcloud.net/bsi2.aspx?tid=1&tc=TestTenant&pv=53&payloadType=ANALYSIS_PAYLOAD&astid=2&ts=.NET&ll=4.5" -z c:\input\WebGoat.NET-master.zip -ep 1 -uc TestUser DXCasod1234$
